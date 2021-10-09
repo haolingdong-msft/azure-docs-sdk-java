@@ -21,7 +21,6 @@ Deploy and manage websites, web applications, and REST APIs with [Azure App Serv
 
 To get started with Azure App Service, see [Create your first Java web app in Azure](/azure/app-service-web/app-service-web-get-started-java).
 
-
 ## Management API
 
 Deploy, scale, and configure applications in Azure App Service with the management API.
